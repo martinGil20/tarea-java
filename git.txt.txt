@@ -1,0 +1,13 @@
+Martin Gil
+
+¿Que es git?
+
+Github es una plataforma creada para alojar el código de las aplicaciones de cualquier desarrollador web y, que como usuario,
+da la opción de descargarse la aplicación o acceder a su perfil para leer o colaborar en el desarrollo de los diferentes proyectos..
+
+¿Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+
+A nadie se le escapa que, al ser una plataforma de libre acceso, cualquier desarrollador web que comenzase a trabajar en alguno de los proyectos, podría ponerlo en riesgo si realizase cambios directamente sobre el original.  
+De ahí que el control de versiones resulte tan importante y beneficioso, ya que permite duplicar partes de un proyecto de manera independiente y trabajar sobre ellas sin transformar el original.
+Cuando los cambios han sido validados, el desarrollador puede fusionar su ramificación con el proyecto, estableciendo una nueva versión de este y que registra los cambios efectuados sobre la versión anterior para que se puedan testear también por otros desarrolladores web.
+
